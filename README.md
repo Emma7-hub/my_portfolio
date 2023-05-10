@@ -1,2 +1,2 @@
 # my_portfolio
-My Data Analyst and Viz expert Portfolio
+My Data Analyst and Visualization expert Portfolio
